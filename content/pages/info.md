@@ -4,7 +4,7 @@ title: About
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
-  url: /images/bg4.jpg
+  url: /images/bg1.jpg
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
@@ -72,7 +72,7 @@ sections:
         url: /images/MTN_BIG-91ac0def.png
         altText: Logo five
         caption: Logo five
-    spacing: 3
+    spacing: 12
     columns: 5
     aspectRatio: auto
     showCaption: false
