@@ -1,10 +1,12 @@
 {
     "type": "Person",
-    "firstName": "Doris",
-    "lastName": "Soto",
+    "firstName": "Andrew",
+    "lastName": "Brown",
     "image": {
         "type": "ImageBlock",
         "url": "/images/about.jpg",
         "altText": "Doris Soto photo"
-    }
+    },
+    "role": "Owner",
+    "bio": "Class of 2026 at University of Michigan majoring in computer science in the College of Engineering. Currently seeking an internship for the 2025 Summer\n"
 }

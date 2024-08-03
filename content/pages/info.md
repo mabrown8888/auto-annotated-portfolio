@@ -13,14 +13,16 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    text: >-
-      ## Hey I’m a developer. I’ve been born and raised in the world, and that’s
-      also where I’m based. I’m currently a free agent, ex-this, ex-that,
-      ex-super big name. When I’m not coding, writing or creating, I eat
-      cereals. I have a dog, check her out [@mygod](https://www.stackbit.com/).
+    text: >+
+      ##### I grew up in North Carolina, always passionate and skilled in math.
+      I transferred to Phillips Academy Andover after my junior year of high
+      school to further my academics and athletics. Now, I attend the University
+      of Michigan and am set to graduate in the Spring of 2026 with a bachelor's
+      degree in Computer Science.
+
     media:
       type: ImageBlock
-      url: /images/about.jpg
+      url: /images/Headshot.jpg
       altText: Hero image
     styles:
       self:
@@ -60,26 +62,14 @@ sections:
         borderStyle: solid
   - type: MediaGallerySection
     colors: colors-f
-    subtitle: 'I worked with these folks:'
+    subtitle: 'I worked at these companies:'
     images:
       - type: ImageBlock
-        url: /images/logo1.svg
+        url: /images/worldcat-logo-tagline.png
         altText: Logo one
         caption: Logo one
       - type: ImageBlock
-        url: /images/logo2.svg
-        altText: Logo two
-        caption: Logo two
-      - type: ImageBlock
-        url: /images/logo3.svg
-        altText: Logo three
-        caption: Logo three
-      - type: ImageBlock
-        url: /images/logo4.svg
-        altText: Logo four
-        caption: Logo four
-      - type: ImageBlock
-        url: /images/logo5.svg
+        url: /images/MTN_BIG-91ac0def.png
         altText: Logo five
         caption: Logo five
     spacing: 3
@@ -124,15 +114,7 @@ sections:
         actions:
           - type: Link
             label: GitHub
-            url: 'https://github.com/'
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
-        actions:
-          - type: Link
-            label: Twitter
-            url: 'https://twitter.com/'
+            url: 'https://github.com/mabrown8888'
         styles:
           self:
             textAlign: left
@@ -140,23 +122,7 @@ sections:
         actions:
           - type: Link
             label: LinkedIn
-            url: 'https://www.linkedin.com/'
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
-        actions:
-          - type: Link
-            label: CodePen
-            url: 'https://codepen.io/'
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
-        actions:
-          - type: Link
-            label: Discord
-            url: 'https://discord.com/'
+            url: 'https://www.linkedin.com/in/andrew-brown-050b87200/'
         styles:
           self:
             textAlign: left
@@ -164,7 +130,7 @@ sections:
         actions:
           - type: Link
             label: Instagram
-            url: 'https://www.instagram.com/'
+            url: 'https://www.instagram.com/_maximusb_'
         styles:
           self:
             textAlign: left
@@ -207,21 +173,21 @@ sections:
     subtitle: 'Skills:'
     items:
       - type: Label
-        label: 'WEB 1, 2, 3'
+        label: C++
       - type: Label
         label: React
       - type: Label
-        label: Microsoft Office
+        label: HTML
       - type: Label
-        label: Next.js
+        label: NumPy
       - type: Label
-        label: Netlify
+        label: Pytorch
       - type: Label
-        label: Pancakes
+        label: Python
       - type: Label
-        label: C++
+        label: Node.js
       - type: Label
-        label: Swift
+        label: Flask
   - type: DividerSection
     styles:
       self:
@@ -239,7 +205,7 @@ sections:
     subtitle: 'Contact:'
     colors: colors-f
     text: |
-      [thisismyemail.@myemail.me](mailto:thisismyemail.@myemail.me)
+      [ambbrown@umich.edu](mailto:thisismyemail.@myemail.me)
   - type: DividerSection
     styles:
       self:
@@ -257,26 +223,19 @@ sections:
     items:
       - type: FeaturedItem
         subtitle: 'Experience:'
-        text: |-
+        text: |+
           **Current**
 
-          * freelance @freelance.me
+          *   Co-founder @owyl.co
 
-          **2018-2021**
+          **2024 Summer**
 
-          * fullstack at this startup
+          *   Full time server at @Vail Resorts
 
-          **2015**
+          **2022 Summer**
 
-          * senior front-end at this place
+          *   Data analyst intern @Worldcat Boats
 
-          **2013**
-
-          * intern developer at a big company
-
-          **2011**
-
-          * flipping burgers
         styles:
           self:
             textAlign: left
@@ -287,18 +246,25 @@ sections:
               - pr-0
       - type: FeaturedItem
         subtitle: 'Education:'
-        text: |-
-          **2015-2018**
+        text: >+
+          **2022-Current**
 
-          * ba computer sciense at a semi fancy school
 
-          **2014**
+          *   University of Michigan - Computer Science Major in COE
 
-          * react certificate somewhere
 
-          **2011**
+          **2023 Summer**
 
-          * my highschool
+
+          *   London School of Economics Study Abroad - Introduction to AI &
+          Machine Learning (ME314)
+
+
+          **2020-2022**
+
+
+          *   Phillips Academy Andover - varsity lacrosse, cluster co-president
+
         styles:
           self:
             textAlign: left
@@ -377,12 +343,12 @@ sections:
         - name: message
           label: Message
           hideLabel: true
-          placeholder: Tell me about your project
+          placeholder: Tell me about yourself
           isRequired: true
           width: full
           type: TextareaFormControl
         - name: updatesConsent
-          label: Sign me up to recieve my words
+          label: Sign up to receive updates
           isRequired: false
           width: full
           type: CheckboxFormControl
