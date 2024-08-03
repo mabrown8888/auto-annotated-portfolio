@@ -5,7 +5,7 @@ sections:
   - type: TextSection
     colors: colors-f
     variant: variant-a
-    title: Store Coming Soon...
+    title: Coming Soon...
     subtitle: ''
     text: ''
     elementId: ''
@@ -25,32 +25,6 @@ sections:
       subtitle:
         textAlign: left
       text:
-        textAlign: left
-  - type: QuoteSection
-    quote: |+
-      ### "Everybody has a plan until they get punched in the mouth"
-
-    name: Mike Tyson
-    title: ''
-    colors: colors-f
-    elementId: ''
-    styles:
-      self:
-        height: auto
-        width: wide
-        padding:
-          - pt-36
-          - pb-36
-          - pl-4
-          - pr-4
-        justifyContent: center
-      quote:
-        textAlign: left
-      name:
-        fontWeight": 500
-        textAlign: left
-      title:
-        fontWeight": 400
         textAlign: left
 addTitleSuffix: true
 colors: colors-a

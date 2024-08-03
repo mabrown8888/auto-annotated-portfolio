@@ -11,7 +11,7 @@ backgroundImage:
   opacity: 75
 sections:
   - elementId: ''
-    colors: colors-e
+    colors: colors-f
     backgroundSize: full
     title: >-
       I'm a rising junior at the university of michigan majoring in computer
@@ -46,7 +46,7 @@ sections:
         justifyContent: flex-start
     type: HeroSection
     actions: []
-  - colors: colors-d
+  - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
     actions:
@@ -86,7 +86,7 @@ sections:
     subtitle: Projects
   - type: FeaturedPostsSection
     elementId: ''
-    colors: colors-e
+    colors: colors-f
     variant: variant-d
     subtitle: Featured Posts
     showFeaturedImage: false
