@@ -7,7 +7,7 @@ client: My sister
 description: '(Node.js, Express.js, HTML, CSS, Javascript, PHP, MySql)'
 featuredImage:
   type: ImageBlock
-  url: /images/bg2.jpg
+  url: /images/bg.jpg
   altText: Project thumbnail image
 media:
   type: ImageBlock

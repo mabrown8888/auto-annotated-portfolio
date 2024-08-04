@@ -14,8 +14,8 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: >-
-      I'm a rising junior at the university of michigan majoring in computer
-      science (coe).
+      Rising junior at the University of michigan - Computer Science major
+      College of engineering.
     subtitle: >-
       This is my personal portfolio, where I share my projects, accomplishments,
       interests, thoughts, and more.

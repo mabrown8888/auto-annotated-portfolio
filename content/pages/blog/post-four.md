@@ -1,13 +1,13 @@
 ---
 type: PostLayout
-title: Creating my portfolio... Upcoming projects/ideas
+title: Creating my portfolio
 colors: colors-a
 date: '2024-08-03'
 author: content/data/team/doris-soto.json
 excerpt: New Portfolio
 featuredImage:
   type: ImageBlock
-  url: /images/featured-Image4.jpg
+  url: /images/gallery-3.jpg
   altText: Post thumbnail image
 bottomSections:
   - elementId: ''
@@ -102,4 +102,4 @@ bottomSections:
       text:
         textAlign: left
 ---
-This is my first post on here. Very excited for some upcoming project ideas I want to build.
+Currently working on creating my portfolio. Very excited for things to come.
