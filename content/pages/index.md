@@ -14,11 +14,9 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: >-
-      Rising junior at the University of michigan - Computer Science major
-      College of engineering.
+      Andrew Brown - Seeking 2025 Internships in Tech, Business, and Finance
     subtitle: >-
-      This is my personal portfolio, where I share my projects, accomplishments,
-      interests, thoughts, and more.
+      Welcome to my personal portfolio. I am a rising junior at the University of Michigan, majoring in computer science (COE). Here, I showcase my projects, skills, and aspirations. I am passionate about technology, business, and finance, and I am seeking opportunities to grow and learn.
     styles:
       self:
         height: auto
