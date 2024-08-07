@@ -14,7 +14,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: >-
-      Andrew Brown - Seeking 2025 Internships in Tech, Business, and Finance
+      Andrew Brown - Seeking a 2025 Internship in Tech, Business, or Finance
     subtitle: >-
       Welcome to my personal portfolio. I am a rising junior at the University of Michigan, majoring in computer science (COE). Here, I showcase my projects, skills, and aspirations. I am passionate about technology, business, and finance, and I am seeking opportunities to grow and learn.
     styles:
