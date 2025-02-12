@@ -14,11 +14,12 @@ sections:
     colors: colors-f
     backgroundSize: full
     text: >+
-      ##### I grew up in North Carolina, always passionate and skilled in math.
-      I transferred to Phillips Academy Andover after my junior year of high
-      school to further my academics and athletics. Now, I attend the University
-      of Michigan and am set to graduate in the Spring of 2026 with a bachelor's
-      degree in Computer Science.
+      ##### I grew up in North Carolina with a strong passion and aptitude for
+      math. After my junior year of high school, I transferred to Phillips
+      Academy Andover to further my academics and athletics. Now at the
+      University of Michigan, I am pursuing a B.S.E. in Computer Science, set to
+      graduate in Spring 2026, with a planned Master’s in Computer Science by
+      2027.
 
     media:
       type: ImageBlock
@@ -65,11 +66,16 @@ sections:
     subtitle: 'I worked at these companies:'
     images:
       - type: ImageBlock
+        url: /images/Screenshot 2025-02-12 at 3.52.24 PM.jpg
+        altText: altText of the image
+        caption: Caption of the image
+        elementId: ''
+      - type: ImageBlock
         url: /images/worldcat-logo-tagline.png
         altText: Logo one
         caption: Logo one
       - type: ImageBlock
-        url: /images/MTN_BIG-91ac0def.png
+        url: /images/Screenshot 2025-02-12 at 3.53.16 PM.jpg
         altText: Logo five
         caption: Logo five
     spacing: 12
@@ -122,7 +128,7 @@ sections:
         actions:
           - type: Link
             label: LinkedIn
-            url: 'https://www.linkedin.com/in/andrew-brown-050b87200/'
+            url: 'https://www.linkedin.com/in/andrew-brown-mich/'
         styles:
           self:
             textAlign: left
@@ -188,6 +194,12 @@ sections:
         label: Node.js
       - type: Label
         label: Flask
+      - type: Label
+        label: NumPy
+        url: ''
+      - type: Label
+        label: Excel
+        url: ''
   - type: DividerSection
     styles:
       self:
@@ -205,16 +217,28 @@ sections:
     items:
       - type: FeaturedItem
         subtitle: 'Experience:'
-        text: |+
+        text: >+
           **Current**
 
-          *   Co-founder @owyl.co
+
+          *   Strategy & Technology Intern @Partytrick
+
 
           **2024 Summer**
 
-          *   Full time server at @Vail Resorts
+
+          *   Full time server at @Vail Resorts and Co-Founder of Owyl
+          (Event-tech startup)
+
+
+          **2023 Summer**
+
+
+          *   Supply chain intern @Worldcat Boats
+
 
           **2022 Summer**
+
 
           *   Data analyst intern @Worldcat Boats
 

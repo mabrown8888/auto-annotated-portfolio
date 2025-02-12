@@ -25,14 +25,27 @@ backgroundImage:
   backgroundRepeat: no-repeat
   opacity: 100
 ---
+*   interactive app that teaches you about investing, taxes, finance - built for kids / young adults. --> similar to duolingo
+
+<!---->
+
 *   app that takes saved / bookmarked videos/articles and compiles them into a daily thing you to read / watch every morning --> could be social media micro learning app
 
 <!---->
 
-*   interactive app that teaches you about investing, taxes, finance - built for kids / young adults. --> similar to duolingo
+*   road blockers using tech to only allow certain cars through - come up from the ground
 
+*   Code Retrieval-augmented generation (RAG) Chatbot
 
+*   SleepSync with nighttime and morning routine solutions + micro learning - How do we get kids off social media??
 
+*   AI Software to sift through and manage garbage - environmental
 
+*   Quantum computing cyber security firm
 
+*   systemsAI - will be important to understand
+
+*   some product using Coinbase API and future trading
+
+*   AI video advertisement firm (OpenAI Sora)
 

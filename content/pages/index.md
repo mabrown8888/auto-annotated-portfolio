@@ -13,10 +13,14 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: >-
-      Andrew Brown - Seeking a 2025 Internship in Tech, Business, or Finance
+    title: Andrew Brown's Portfolio
     subtitle: >-
-      Welcome to my personal portfolio. I am a rising junior at the University of Michigan, majoring in computer science (COE). Here, I showcase my projects, skills, and aspirations. I am passionate about technology, business, and finance, and I am seeking opportunities to grow and learn.
+      I am a rising junior at the University of Michigan, enrolled in the
+      Engineering Global Leadership (EGL) Program, pursuing a B.S.E. in Computer
+      Science (Class of 2026) and a Master’s in Computer Science (Class of
+      2027). Here, I showcase my projects, skills, and aspirations. I am
+      passionate about technology, business, and finance, and I am actively
+      seeking opportunities to grow, innovate, and make an impact.
     styles:
       self:
         height: auto

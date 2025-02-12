@@ -16,7 +16,8 @@
             {
                 "type": "Link",
                 "label": "Projects",
-                "url": "/projects"
+                "url": "/projects",
+                "altText": "Projects"
             },
             {
                 "type": "Link",
@@ -39,7 +40,7 @@
                 "type": "Social",
                 "altText": "LinkedIn",
                 "label": "LinkedIn",
-                "url": "https://www.linkedin.com/in/andrew-brown-050b87200/",
+                "url": "https://www.linkedin.com/in/andrew-brown-mich/",
                 "icon": "linkedin"
             },
             {
