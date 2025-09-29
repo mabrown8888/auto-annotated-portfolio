@@ -1,14 +1,19 @@
 ---
 type: ProjectLayout
-title: Web App for Magazine
+title: Techie Networks - Purchase Order Automation System
 colors: colors-a
-date: '2023-07-20'
-client: My sister
+date: '2025-06-15'
+client: Techie Networks
 description: >-
-  (Node.js, Express.js, HTML, CSS, Javascript, PHP, MySql) Developed a
-  full-stack website featuring advanced functionality such as password hashing,
-  password reset, email confirmation, and user data storage using cookies and
-  tokens.
+  Product Manager role streamlining enterprise procurement workflows.
+  Interviewed end-users across purchase orders, receiving, and invoice teams to
+  identify bottlenecks in approval, matching, and reconciliation processes.
+  Launched an automated integration linking purchase orders, receiving, and
+  invoices into one unified digital workflow, cutting processing time
+  significantly and effectively eliminating duplicate payable entries. Reduced
+  reconciliation errors while replacing legacy paper processes, translating user
+  findings into feature requirements and collaborating with engineers to deliver
+  the solution.
 featuredImage:
   type: ImageBlock
   url: /images/bg.jpg

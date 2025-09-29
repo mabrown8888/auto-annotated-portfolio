@@ -1,16 +1,18 @@
 ---
 type: ProjectLayout
-title: Introduction to Computer Organization Project - University of Michigan
+title: Partytrick - Market Research Automation & GTM Strategy
 colors: colors-a
-date: '2024-01-22'
-client: EECS370 Professors
+date: '2024-09-15'
+client: Partytrick
 description: >-
-  (LC2K Processor, LC2K Simulator, C, Visual Studio) Developed a
-  high-performance C program for translating LC2K assembly files (*.as) into
-  machine code representations (*.mc), automating the conversion process and
-  enhancing efficiency in programming workflows.Created a C program to simulate
-  the LC2K ISA using machine code files, providing detailed processor analysis
-  and generating output to stdout.
+  Technology & Strategy Intern driving go-to-market strategy and competitive
+  intelligence. Built a market research bot utilizing Perplexity API, ChatGPT
+  API, Google Scripts, and Google Triggers to intelligently automate competitor
+  analysis, significantly reducing research time while improving breadth and
+  quality of insights for strategy and product positioning. Drove GTM strategy
+  by analyzing 50+ competitors and sizing a $50M education-focused TAM via
+  customer outreach and research, defining clear differentiators that sharpened
+  positioning and directly informed both product and investor strategy.
 featuredImage:
   type: ImageBlock
   url: /images/bg3.jpg

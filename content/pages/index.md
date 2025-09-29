@@ -15,12 +15,13 @@ sections:
     backgroundSize: full
     title: Andrew Brown's Portfolio
     subtitle: >-
-      I am a rising junior at the University of Michigan, enrolled in the
-      Engineering Global Leadership (EGL) Program, pursuing a B.S.E. in Computer
-      Science (Class of 2026) and a Master’s in Computer Science (Class of
-      2027). Here, I showcase my projects, skills, and aspirations. I am
-      passionate about technology, business, and finance, and I am actively
-      seeking opportunities to grow, innovate, and make an impact.
+      Rising senior at the University of Michigan studying Computer Science and
+      Entrepreneurship (Class of 2026). Product builder and problem solver with
+      experience across engineering, growth, strategy, and operations. I thrive
+      in fast-paced environments where I can drive impact across multiple
+      functions—from building internal tools to scaling user growth to
+      optimizing workflows. Passionate about creating products that solve real
+      problems and accelerate business outcomes.
     styles:
       self:
         height: auto
@@ -97,9 +98,6 @@ sections:
         label: See all posts
         url: /blog
     posts:
-      - content/pages/blog/post-four.md
-      - >-
-        content/pages/blog/introduction-to-my-portfolio-and-upcoming-projects/ideas.md
       - content/pages/blog/post-three.md
     showDate: true
     showExcerpt: true

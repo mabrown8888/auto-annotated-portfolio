@@ -1,13 +1,20 @@
 ---
 type: ProjectLayout
-title: Stock Hedging Platform
-date: '2025-02-11'
-client: ''
+title: World Cat Boats - Manufacturing Analytics & Automation
+date: '2023-06-15'
+client: World Cat Boats
 description: >-
-  Developed a stock hedging platform using linear regression, statistical
-  analysis, and historical market data to forecast systematic risk, integrating
-  machine learning models and real-time data scraping tools, enhancing risk
-  management and achieving a 356.46% portfolio increase
+  Tech Intern role modernizing manufacturing operations through data automation
+  and analytics. Developed and implemented a SQL algorithm to autonomously
+  process 900,000+ historical defect records, leveraging webhooks, dynamic data
+  mapping, and advanced analysis techniques to streamline workflows and
+  significantly improve processing efficiency. Utilized PowerBI to uncover
+  critical trends across manufacturing lines, enabling quality teams to detect
+  and resolve defects much earlier and significantly improving overall product
+  quality. Developed an Excel-based warehouse tracker that replaced paper logs
+  by letting staff scan part stickers to update counts, automatically flagging
+  low inventory and misplaced items while cutting search time and greatly
+  improving accuracy.
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'

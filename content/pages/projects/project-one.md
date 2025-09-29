@@ -1,17 +1,18 @@
 ---
 type: ProjectLayout
-title: Movie Suggester Project
+title: Tabster.AI - AI Bill-Splitting App
 colors: colors-a
-date: '2024-07-15'
-client: Myself
+date: '2024-12-15'
+client: Tabster.AI
 description: >-
-  (Pytorch, Flask, NumPy, Pandas, Python, HTML, CSS) Developed a machine
-  learning-based movie recommendation system using Matrix Factorization in
-  PyTorch, enabling personalized movie suggestions based on user ratings.Created
-  a web application with Flask to handle user interactions, allowing users to
-  log in, add ratings, and receive real-time movie recommendations, while
-  leveraging TMDB API for fetching movie
-  details.                                                                         
+  Product Manager role driving 4× user growth through strategic feature
+  launches. Designed and shipped an innovative receipt-scanning feature using
+  OCR & AI that automatically split itemized bills, reducing user mistakes and
+  significantly speeding up transactions. Launched social & retention features
+  including shared photo albums, comments, and activity feed that strengthened
+  network effects and boosted community engagement. Researched key user pain
+  points in group bill-splitting and translated findings into high-impact
+  product features.
 featuredImage:
   type: ImageBlock
   url: /images/bg1.jpg

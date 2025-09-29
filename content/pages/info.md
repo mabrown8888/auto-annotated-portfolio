@@ -14,12 +14,14 @@ sections:
     colors: colors-f
     backgroundSize: full
     text: >+
-      ##### I grew up in North Carolina with a strong passion and aptitude for
-      math. After my junior year of high school, I transferred to Phillips
-      Academy Andover to further my academics and athletics. Now at the
-      University of Michigan, I am pursuing a B.S.E. in Computer Science, set to
-      graduate in Spring 2026, with a planned Master’s in Computer Science by
-      2027.
+      ##### I grew up in North Carolina with a strong passion for technology and
+      problem-solving. After my junior year of high school, I transferred to
+      Phillips Academy Andover to further my academics and athletics. Now at the
+      University of Michigan, I am pursuing a B.S.E. in Computer Science with a
+      Minor in Entrepreneurship, graduating in May 2026. I'm passionate about
+      building products that solve real problems—from AI-powered bill-splitting
+      apps to workflow automation systems—and thrive in fast-paced environments
+      where I can drive impact across product, engineering, and strategy.
 
     media:
       type: ImageBlock
@@ -66,26 +68,33 @@ sections:
     subtitle: 'I worked at these companies:'
     images:
       - type: ImageBlock
-        url: /images/Screenshot 2025-02-12 at 3.52.24 PM.jpg
-        altText: altText of the image
-        caption: Caption of the image
+        url: /images/tabster-logo.png
+        altText: Tabster.AI
+        caption: Tabster.AI
+        elementId: ''
+      - type: ImageBlock
+        url: /images/techie-networks-logo.png
+        altText: Techie Networks
+        caption: Techie Networks
+        elementId: ''
+      - type: ImageBlock
+        url: /images/partytrick-logo.png
+        altText: Partytrick
+        caption: Partytrick
         elementId: ''
       - type: ImageBlock
         url: /images/worldcat-logo-tagline.png
-        altText: Logo one
-        caption: Logo one
-      - type: ImageBlock
-        url: /images/Screenshot 2025-02-12 at 3.53.16 PM.jpg
-        altText: Logo five
-        caption: Logo five
+        altText: World Cat Boats
+        caption: World Cat Boats
+        elementId: ''
     spacing: 12
-    columns: 5
+    columns: 4
     aspectRatio: auto
     showCaption: false
     enableHover: false
     styles:
       self:
-        width: wide
+        width: narrow
         height: auto
         padding:
           - pt-8
@@ -195,11 +204,37 @@ sections:
       - type: Label
         label: Flask
       - type: Label
-        label: NumPy
-        url: ''
-      - type: Label
         label: Excel
-        url: ''
+      - type: Label
+        label: JavaScript
+      - type: Label
+        label: SQL
+      - type: Label
+        label: 'C#'
+      - type: Label
+        label: ASP.NET
+      - type: Label
+        label: Next.js
+      - type: Label
+        label: Express.js
+      - type: Label
+        label: REST APIs
+      - type: Label
+        label: MongoDB
+      - type: Label
+        label: MySQL
+      - type: Label
+        label: Azure
+      - type: Label
+        label: Git
+      - type: Label
+        label: TailwindCSS
+      - type: Label
+        label: Pandas
+      - type: Label
+        label: TensorFlow
+      - type: Label
+        label: PowerBI
   - type: DividerSection
     styles:
       self:
@@ -218,29 +253,39 @@ sections:
       - type: FeaturedItem
         subtitle: 'Experience:'
         text: >+
-          **Current**
+          **2024-Present**
 
 
-          *   Strategy & Technology Intern @Partytrick
+          *   Product Manager @Tabster.AI - Shipped receipt-scanning AI feature
+          & social engagement tools, driving 4× user growth
 
 
-          **2024 Summer**
+          **Summer 2025**
 
 
-          *   Full time server at @Vail Resorts and Co-Founder of Owyl
-          (Event-tech startup)
+          *   Product Manager @Techie Networks - Built automated purchase order
+          integration, eliminating duplicate entries & cutting processing time
 
 
-          **2023 Summer**
+          **2024-2025**
 
 
-          *   Supply chain intern @Worldcat Boats
+          *   Technology & Strategy Intern @Partytrick - Built market research
+          bot with Perplexity API; drove GTM strategy analyzing 50+ competitors
 
 
-          **2022 Summer**
+          **2024**
 
 
-          *   Data analyst intern @Worldcat Boats
+          *   Founder & CEO @OWYL - Founded B2B hospitality marketplace from
+          concept to MVP; conducted customer discovery with 40+ stakeholders
+
+
+          **2022-2023 Summers**
+
+
+          *   Tech Intern @World Cat Boats - Developed SQL algorithms processing
+          900K+ defect records; built PowerBI dashboards for quality analysis
 
         styles:
           self:
@@ -253,23 +298,35 @@ sections:
       - type: FeaturedItem
         subtitle: 'Education:'
         text: >+
-          **2022-Current**
+          **2022-2026**
 
 
-          *   University of Michigan - Computer Science Major in COE
+          *   University of Michigan - B.S.E. Computer Science, Minor in
+          Entrepreneurship (GPA: 3.6/4.0)
+
+          *   Honors College, Engineering Global Leadership Program
+
+          *   Member: Michigan Hackers, Michigan V1, MIDO
 
 
           **2023 Summer**
 
 
-          *   London School of Economics Study Abroad - Introduction to AI &
-          Machine Learning (ME314)
+          *   London School of Economics - Intro to Machine Learning (Regression,
+          Classifiers, Modeling)
 
 
           **2020-2022**
 
 
-          *   Phillips Academy Andover - varsity lacrosse, cluster co-president
+          *   Phillips Academy Andover - Varsity lacrosse, cluster co-president
+
+
+          **Accomplishments**
+
+
+          *   Akuna Capital Options Certificate, MHacks 2024 Competitor, Pitch
+          Experience w/ Multi-Billion Dollar Investors
 
         styles:
           self:

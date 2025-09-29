@@ -1,15 +1,18 @@
 ---
 type: ProjectLayout
-title: AI Powered Mental Health Peer Platform
-date: '2025-02-11'
-client: MHackathon 2024
+title: OWYL - B2B Hospitality Marketplace Startup
+date: '2024-07-01'
+client: OWYL (Founder & CEO)
 description: >-
-  Engineered and deployed an AI-powered mental health peer support platform at
-  MHacks2024 Hackathon, utilizing MongoDB for scalable data storage, Streamlit
-  for an interactive userinterface, and NLP techniques combined with K-Means
-  clustering to match users based ontheir worries and emotional states;
-  seamlessly integrated Magic Loops API for automatedmeeting scheduling,
-  providing real-time peer support with empathetic, data-driven matching
+  Founded B2B hospitality marketplace startup from concept to MVP, conducting
+  extensive customer discovery with 40+ industry stakeholders to validate strong
+  product-market fit. Built a comprehensive initial supplier network across the
+  US hospitality market. Led end-to-end agile product development, managing
+  cross-functional engineering team through sprint cycles and delivering
+  full-stack marketplace platform with core features including vendor matching,
+  booking system, and payment processing on schedule and under budget. Gained
+  hands-on experience in startup operations, fundraising, and strategic
+  partnership development.
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
