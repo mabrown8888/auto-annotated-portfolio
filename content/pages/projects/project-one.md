@@ -5,14 +5,9 @@ colors: colors-a
 date: '2024-12-15'
 client: Tabster.AI
 description: >-
-  Product Manager role driving 4× user growth through strategic feature
-  launches. Designed and shipped an innovative receipt-scanning feature using
-  OCR & AI that automatically split itemized bills, reducing user mistakes and
-  significantly speeding up transactions. Launched social & retention features
-  including shared photo albums, comments, and activity feed that strengthened
-  network effects and boosted community engagement. Researched key user pain
-  points in group bill-splitting and translated findings into high-impact
-  product features.
+  Drove 4× user growth as PM. Shipped receipt-scanning feature with OCR & AI to
+  auto-split itemized bills. Built social features (photo albums, comments,
+  activity feed) that strengthened engagement and retention.
 featuredImage:
   type: ImageBlock
   url: /images/bg1.jpg

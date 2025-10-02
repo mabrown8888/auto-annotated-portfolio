@@ -114,12 +114,5 @@ sections:
       text:
         textAlign: center
 addTitleSuffix: true
-colors: colors-a
-backgroundImage:
-  type: BackgroundImage
-  url: /images/featured-Image1.jpg
-  backgroundSize: cover
-  backgroundPosition: center
-  backgroundRepeat: no-repeat
-  opacity: 80
+colors: colors-b
 ---

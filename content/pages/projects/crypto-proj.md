@@ -1,15 +1,57 @@
 ---
 type: ProjectLayout
-title: Crypto_Proj - Cryptocurrency Analysis Platform
+title: Crypto_Proj - Bitcoin Trading Bot
 date: '2024-07-31'
 client: Personal Project
 description: >-
-  (JavaScript, APIs, Data Analysis, Real-time Processing) Developed a
-  cryptocurrency analysis platform for tracking and analyzing digital asset
-  performance. Implemented real-time data fetching from multiple cryptocurrency
-  exchanges, price tracking, and portfolio management features. Built
-  interactive dashboards for visualizing market trends, historical data, and
-  performance metrics to support informed trading decisions.
+  Automated Bitcoin trading bot that autonomously buys, sells, and holds based
+  on real-time market data. Up 5% in the past month with algorithmic trading
+  strategies.
+bottomSections:
+  - type: DividerSection
+    styles:
+      self:
+        width: wide
+        padding:
+          - pt-12
+          - pb-12
+          - pl-4
+          - pr-4
+        justifyContent: center
+        borderWidth: 1
+        borderStyle: solid
+  - type: FeaturedItemsSection
+    colors: colors-f
+    items:
+      - type: FeaturedItem
+        actions:
+          - type: Link
+            label: View on GitHub
+            url: 'https://github.com/mabrown8888/Crypto_Proj'
+        styles:
+          self:
+            textAlign: left
+    columns: 1
+    spacingX: 120
+    spacingY: 0
+    styles:
+      self:
+        height: auto
+        width: wide
+        padding:
+          - pt-8
+          - pb-8
+          - pl-4
+          - pr-4
+        justifyContent: center
+        borderRadius: none
+        borderWidth: 0
+        borderStyle: none
+        borderColor: border-dark
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'

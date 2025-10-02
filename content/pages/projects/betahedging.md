@@ -4,12 +4,54 @@ title: BetaHedging - Stock Hedging Platform
 date: '2024-11-03'
 client: Personal Project
 description: >-
-  (Python, Linear Regression, Statistical Analysis, Data Scraping) Developed a
-  stock hedging platform using linear regression, statistical analysis, and
-  historical market data to forecast systematic risk. Integrated machine
-  learning models and real-time data scraping tools to enhance risk management
-  and achieved a 356.46% portfolio increase. Built predictive models to
-  optimize hedging strategies and minimize portfolio volatility.
+  Built stock hedging platform using linear regression and ML models to forecast
+  systematic risk. Achieved ~55% portfolio increase over 6 months through
+  optimized hedging strategies and real-time data scraping.
+bottomSections:
+  - type: DividerSection
+    styles:
+      self:
+        width: wide
+        padding:
+          - pt-12
+          - pb-12
+          - pl-4
+          - pr-4
+        justifyContent: center
+        borderWidth: 1
+        borderStyle: solid
+  - type: FeaturedItemsSection
+    colors: colors-f
+    items:
+      - type: FeaturedItem
+        actions:
+          - type: Link
+            label: View on GitHub
+            url: 'https://github.com/mabrown8888/BetaHedging'
+        styles:
+          self:
+            textAlign: left
+    columns: 1
+    spacingX: 120
+    spacingY: 0
+    styles:
+      self:
+        height: auto
+        width: wide
+        padding:
+          - pt-8
+          - pb-8
+          - pl-4
+          - pr-4
+        justifyContent: center
+        borderRadius: none
+        borderWidth: 0
+        borderStyle: none
+        borderColor: border-dark
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'

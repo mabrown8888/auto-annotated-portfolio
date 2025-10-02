@@ -1,21 +1,27 @@
 ---
 type: PageLayout
 title: About
-colors: colors-b
+colors: colors-a
+backgroundImage:
+  type: BackgroundImage
+  url: /images/bg1.jpg
+  backgroundSize: cover
+  backgroundPosition: center
+  backgroundRepeat: no-repeat
+  opacity: 75
 sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
     text: >+
-      ##### I grew up in North Carolina always taking things apart to see how
-      they worked. After transferring to Phillips Academy Andover junior year
-      for lacrosse and academics, I found myself spending more time coding than
-      sleeping. Now at Michigan studying Computer Science and Entrepreneurship
-      (graduating May 2026), I'm focused on building products that actually
-      solve problems—whether that's AI bill-splitting, digitizing invoice
-      systems, or automating crypto trading. Outside of school and coding, I stay active with
-      golf, tennis, pickleball, and basketball, and I'm currently trying to
-      learn chess and how to DJ.
+      ##### I grew up in North Carolina with a strong passion for technology and
+      problem-solving. After my junior year of high school, I transferred to
+      Phillips Academy Andover to further my academics and athletics. Now at the
+      University of Michigan, I am pursuing a B.S.E. in Computer Science with a
+      Minor in Entrepreneurship, graduating in May 2026. I'm passionate about
+      building products that solve real problems—from AI-powered bill-splitting
+      apps to workflow automation systems—and thrive in fast-paced environments
+      where I can drive impact across product, engineering, and strategy.
 
     media:
       type: ImageBlock
@@ -62,33 +68,26 @@ sections:
     subtitle: 'I worked at these companies:'
     images:
       - type: ImageBlock
-        url: /images/tabster-logo.png
-        altText: Tabster.AI
-        caption: Tabster.AI
-        elementId: ''
-      - type: ImageBlock
-        url: /images/techie-networks-logo.png
-        altText: Techie Networks
-        caption: Techie Networks
-        elementId: ''
-      - type: ImageBlock
-        url: /images/partytrick-logo.png
-        altText: Partytrick
-        caption: Partytrick
+        url: /images/Screenshot 2025-02-12 at 3.52.24 PM.jpg
+        altText: altText of the image
+        caption: Caption of the image
         elementId: ''
       - type: ImageBlock
         url: /images/worldcat-logo-tagline.png
-        altText: World Cat Boats
-        caption: World Cat Boats
-        elementId: ''
+        altText: Logo one
+        caption: Logo one
+      - type: ImageBlock
+        url: /images/Screenshot 2025-02-12 at 3.53.16 PM.jpg
+        altText: Logo five
+        caption: Logo five
     spacing: 12
-    columns: 4
+    columns: 5
     aspectRatio: auto
     showCaption: false
     enableHover: false
     styles:
       self:
-        width: narrow
+        width: wide
         height: auto
         padding:
           - pt-8

@@ -4,15 +4,9 @@ title: OWYL - B2B Hospitality Marketplace Startup
 date: '2024-07-01'
 client: OWYL (Founder & CEO)
 description: >-
-  Founded B2B hospitality marketplace startup from concept to MVP, conducting
-  extensive customer discovery with 40+ industry stakeholders to validate strong
-  product-market fit. Built a comprehensive initial supplier network across the
-  US hospitality market. Led end-to-end agile product development, managing
-  cross-functional engineering team through sprint cycles and delivering
-  full-stack marketplace platform with core features including vendor matching,
-  booking system, and payment processing on schedule and under budget. Gained
-  hands-on experience in startup operations, fundraising, and strategic
-  partnership development.
+  Founded B2B hospitality marketplace from concept to MVP. Conducted customer
+  discovery with 40+ stakeholders. Led engineering team to build full-stack
+  platform with vendor matching, booking, and payments.
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'

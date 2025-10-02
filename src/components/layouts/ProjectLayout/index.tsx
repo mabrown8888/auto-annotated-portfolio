@@ -38,11 +38,6 @@ const Component: React.FC<ComponentProps> = (props) => {
                             </div>
                         </header>
                         {description && <div className="text-xl leading-normal uppercase max-w-screen-md mx-auto mb-10 sm:mb-16">{description}</div>}
-                        {media && (
-                            <div className="mb-10 sm:mb-16">
-                                <ProjectMedia media={media} />
-                            </div>
-                        )}
                         {markdownContent && (
                             <Markdown options={{ forceBlock: true, overrides: { pre: HighlightedPreBlock } }} className="sb-markdown max-w-screen-md mx-auto">
                                 {markdownContent}
@@ -50,14 +45,6 @@ const Component: React.FC<ComponentProps> = (props) => {
                         )}
                     </div>
                 </article>
-                {(prevProject || nextProject) && (
-                    <nav className="sb-project-nav px-4 sm:px-8 mt-12 mb-20">
-                        <div className="max-w-5xl mx-auto grid gap-x-6 gap-y-12 md:grid-cols-2 lg:gap-x-8">
-                            {prevProject && <ProjectNavItem project={prevProject} label="Previous project" />}
-                            {nextProject && <ProjectNavItem project={nextProject} label="Next project" />}
-                        </div>
-                    </nav>
-                )}
                 {bottomSections.length > 0 && (
                     <div>
                         {bottomSections.map((section, index) => {

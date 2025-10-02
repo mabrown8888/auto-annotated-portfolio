@@ -2,26 +2,18 @@
 type: PageLayout
 title: Home
 colors: colors-b
-backgroundImage:
-  type: BackgroundImage
-  url: /images/bg1.jpg
-  backgroundSize: cover
-  backgroundPosition: center
-  backgroundRepeat: no-repeat
-  opacity: 75
 sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
     title: Andrew Brown's Portfolio
     subtitle: >-
-      Rising senior at the University of Michigan studying Computer Science and
-      Entrepreneurship (Class of 2026). Product builder and problem solver with
-      experience across engineering, growth, strategy, and operations. I thrive
-      in fast-paced environments where I can drive impact across multiple
-      functions—from building internal tools to scaling user growth to
-      optimizing workflows. Passionate about creating products that solve real
-      problems and accelerate business outcomes.
+      I'm a senior at Michigan studying CS and entrepreneurship. I've been into
+      building stuff since high school—started tinkering with code and never
+      stopped. These days I'm focused on product and engineering, working on
+      everything from AI features to workflow automation. Outside of tech, I'm
+      trying to get better at golf (emphasis on trying) and spending time with
+      friends.
     styles:
       self:
         height: auto
@@ -52,19 +44,23 @@ sections:
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
-    actions:
-      - type: Link
-        label: See all projects
-        url: /projects
+    actions: []
     showDate: false
     showDescription: true
-    showFeaturedImage: true
+    showFeaturedImage: false
     showReadMoreLink: true
     variant: variant-b
     projects:
+      - content/pages/projects/crypto-proj.md
       - content/pages/projects/project-two.md
-      - content/pages/projects/project-three.md
       - content/pages/projects/project-one.md
+      - content/pages/projects/project-three.md
+      - content/pages/projects/project-four.md
+      - content/pages/projects/project-five.md
+      - content/pages/projects/betahedging.md
+      - content/pages/projects/mhacks2024.md
+      - content/pages/projects/saaswebapp.md
+      - content/pages/projects/movie-suggester.md
     styles:
       self:
         height: auto

@@ -4,12 +4,53 @@ title: MovieSuggester - ML Recommendation System
 date: '2024-07-10'
 client: Personal Project
 description: >-
-  (PyTorch, Flask, NumPy, Pandas, Python, HTML, CSS, TMDB API) Developed a
-  machine learning-based movie recommendation system using Matrix Factorization
-  in PyTorch, enabling personalized movie suggestions based on user ratings.
-  Created a web application with Flask to handle user interactions, allowing
-  users to log in, add ratings, and receive real-time movie recommendations.
-  Integrated TMDB API for fetching comprehensive movie details and metadata.
+  Built ML movie recommendation system with Matrix Factorization in PyTorch.
+  Flask web app with user ratings and real-time suggestions using TMDB API.
+bottomSections:
+  - type: DividerSection
+    styles:
+      self:
+        width: wide
+        padding:
+          - pt-12
+          - pb-12
+          - pl-4
+          - pr-4
+        justifyContent: center
+        borderWidth: 1
+        borderStyle: solid
+  - type: FeaturedItemsSection
+    colors: colors-f
+    items:
+      - type: FeaturedItem
+        actions:
+          - type: Link
+            label: View on GitHub
+            url: 'https://github.com/mabrown8888/MovieSuggester'
+        styles:
+          self:
+            textAlign: left
+    columns: 1
+    spacingX: 120
+    spacingY: 0
+    styles:
+      self:
+        height: auto
+        width: wide
+        padding:
+          - pt-8
+          - pb-8
+          - pl-4
+          - pr-4
+        justifyContent: center
+        borderRadius: none
+        borderWidth: 0
+        borderStyle: none
+        borderColor: border-dark
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
 featuredImage:
   type: ImageBlock
   url: /images/bg1.jpg

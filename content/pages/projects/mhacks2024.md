@@ -4,13 +4,54 @@ title: MHacks2024 - AI Powered Mental Health Peer Platform
 date: '2024-09-29'
 client: MHacks2024 Hackathon
 description: >-
-  (Python, MongoDB, Streamlit, NLP, K-Means Clustering, Magic Loops API)
-  Engineered and deployed an AI-powered mental health peer support platform at
-  MHacks2024 Hackathon. Utilized MongoDB for scalable data storage, Streamlit
-  for an interactive user interface, and NLP techniques combined with K-Means
-  clustering to match users based on their worries and emotional states.
-  Seamlessly integrated Magic Loops API for automated meeting scheduling,
-  providing real-time peer support with empathetic, data-driven matching.
+  Built AI mental health peer platform at MHacks2024. Used NLP and K-Means
+  clustering to match users by emotional states. Integrated Magic Loops API for
+  automated meeting scheduling.
+bottomSections:
+  - type: DividerSection
+    styles:
+      self:
+        width: wide
+        padding:
+          - pt-12
+          - pb-12
+          - pl-4
+          - pr-4
+        justifyContent: center
+        borderWidth: 1
+        borderStyle: solid
+  - type: FeaturedItemsSection
+    colors: colors-f
+    items:
+      - type: FeaturedItem
+        actions:
+          - type: Link
+            label: View on GitHub
+            url: 'https://github.com/mabrown8888/MHacks2024'
+        styles:
+          self:
+            textAlign: left
+    columns: 1
+    spacingX: 120
+    spacingY: 0
+    styles:
+      self:
+        height: auto
+        width: wide
+        padding:
+          - pt-8
+          - pb-8
+          - pl-4
+          - pr-4
+        justifyContent: center
+        borderRadius: none
+        borderWidth: 0
+        borderStyle: none
+        borderColor: border-dark
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'

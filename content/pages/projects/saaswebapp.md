@@ -4,12 +4,53 @@ title: Full Stack AI SaaS Platform
 date: '2024-08-11'
 client: Personal Project
 description: >-
-  (Next.js, TypeScript, MongoDB, Stripe, Cloudinary, Serverless Functions)
-  Developed a full stack AI SaaS platform using Next.js and MongoDB for image
-  transformations with Cloudinary integration. Implemented secure route
-  protection, serverless functions optimized by cache-based webhooks, and user
-  authentication to enhance efficiency and streamline operations. Integrated
-  Stripe for payment processing and subscription management.
+  Full-stack AI SaaS with Next.js, MongoDB, Stripe, and Cloudinary. Includes
+  image transformations, serverless functions, and subscription management.
+bottomSections:
+  - type: DividerSection
+    styles:
+      self:
+        width: wide
+        padding:
+          - pt-12
+          - pb-12
+          - pl-4
+          - pr-4
+        justifyContent: center
+        borderWidth: 1
+        borderStyle: solid
+  - type: FeaturedItemsSection
+    colors: colors-f
+    items:
+      - type: FeaturedItem
+        actions:
+          - type: Link
+            label: View on GitHub
+            url: 'https://github.com/mabrown8888/saaswebapp'
+        styles:
+          self:
+            textAlign: left
+    columns: 1
+    spacingX: 120
+    spacingY: 0
+    styles:
+      self:
+        height: auto
+        width: wide
+        padding:
+          - pt-8
+          - pb-8
+          - pl-4
+          - pr-4
+        justifyContent: center
+        borderRadius: none
+        borderWidth: 0
+        borderStyle: none
+        borderColor: border-dark
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'

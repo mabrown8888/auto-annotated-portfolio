@@ -1,21 +1,14 @@
 ---
 type: ProjectFeedLayout
 title: Projects
-colors: colors-a
-backgroundImage:
-  type: BackgroundImage
-  url: /images/bg1.jpg
-  backgroundSize: cover
-  backgroundPosition: center
-  backgroundRepeat: no-repeat
-  opacity: 50
+colors: colors-b
 projectFeed:
   type: ProjectFeedSection
   colors: colors-f
   showDate: false
   showDescription: true
   showReadMoreLink: true
-  showFeaturedImage: true
+  showFeaturedImage: false
   variant: variant-a
   styles:
     self:
