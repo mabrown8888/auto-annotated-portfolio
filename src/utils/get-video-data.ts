@@ -18,7 +18,7 @@ export default function getVideoData(videoUrl: string) {
             id: getVimeoId(videoUrl),
             service: 'vimeo'
         };
-    } else if (/\.mp4/.test(videoUrl)) {
+    } else if (/\.(mp4|mov)/.test(videoUrl)) {
         videoData = {
             id: videoUrl,
             service: 'custom'

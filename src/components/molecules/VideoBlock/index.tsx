@@ -71,6 +71,7 @@ function VimeoVideo({ id, autoplay, loop, muted, controls }) {
 }
 
 function SelfHostedVideo({ id, autoplay, loop, muted, controls }) {
+    const mimeType = id.endsWith('.mov') ? 'video/quicktime' : 'video/mp4';
     return (
         <video
             {...(autoplay && { autoPlay: true })}
@@ -80,7 +81,7 @@ function SelfHostedVideo({ id, autoplay, loop, muted, controls }) {
             playsInline
             className="absolute left-0 top-0 h-full w-full"
         >
-            <source src={id} type="video/mp4" />
+            <source src={id} type={mimeType} />
         </video>
     );
 }
