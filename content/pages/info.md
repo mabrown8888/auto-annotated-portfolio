@@ -82,7 +82,7 @@ sections:
         caption: Partytrick
         elementId: ''
       - type: ImageBlock
-        url: /images/worldcat-logo-tagline.png
+        url: /images/worldcat-logo.jpeg
         altText: World Cat Boats
         caption: World Cat Boats
         elementId: ''
