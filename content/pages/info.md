@@ -62,6 +62,11 @@ sections:
     subtitle: 'I worked at these companies:'
     images:
       - type: ImageBlock
+        url: /images/iron-grid-logo.jpeg
+        altText: Iron Grid AI
+        caption: Iron Grid AI
+        elementId: ''
+      - type: ImageBlock
         url: /images/tabster-logo.png
         altText: Tabster.AI
         caption: Tabster.AI
@@ -82,7 +87,7 @@ sections:
         caption: World Cat Boats
         elementId: ''
     spacing: 12
-    columns: 4
+    columns: 5
     aspectRatio: auto
     showCaption: false
     enableHover: false
@@ -247,6 +252,14 @@ sections:
       - type: FeaturedItem
         subtitle: 'Experience:'
         text: >+
+          **2025-2026**
+
+
+          *   Security Intern @Iron Grid AI - Worked on SOC 2 security and
+          compliance initiatives using Vanta, assisting with access controls,
+          incident response documentation, and overall audit readiness efforts
+
+
           **2024-Present**
 
 
@@ -295,10 +308,9 @@ sections:
           **2022-2026**
 
 
-          *   University of Michigan - B.S.E. Computer Science, Minor in
-          Entrepreneurship (GPA: 3.6/4.0)
+          *   University of Michigan - B.S.E. Computer Science (GPA: 3.6/4.0)
 
-          *   Honors College, Engineering Global Leadership Program
+          *   Honors College
 
           *   Member: Michigan Hackers, Michigan V1, MIDO
 
